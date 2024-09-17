@@ -1,4 +1,13 @@
 """
+595. Big Countries 
+
+Solved by Varun MJ
+Easy
+Topics
+Companies
+SQL Schema
+Pandas Schema
+Table: Products
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
