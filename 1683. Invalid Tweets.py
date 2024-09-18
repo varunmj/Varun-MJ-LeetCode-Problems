@@ -1,6 +1,6 @@
 """
 1683. Invalid Tweets
-Solved
+Solved by Varun MJ
 Easy
 Topics
 Companies

@@ -1,6 +1,7 @@
 """
 1148. Article Views I
 Easy
+Solved by Varun MJ
 Topics
 Companies
 SQL Schema

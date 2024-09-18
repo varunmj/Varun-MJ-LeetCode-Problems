@@ -1,6 +1,6 @@
 """
 1873. Calculate Special Bonus
-Solved
+Solved by Varun MJ
 Easy
 Topics
 Companies
